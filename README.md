@@ -62,8 +62,7 @@ scale_robust(x_small, method = "sd") # Simple unbiased SD
 ## Authors
 
 *   Dennis Alexis Valin Dittrich
-    *   Email: davd@economicscience.net
-    *   ORCID: [0000-0002-4438-8276](https://orcid.org/0000-0002-4438-8276)
+       *   ORCID: [0000-0002-4438-8276](https://orcid.org/0000-0002-4438-8276)
 
 ---
 For more details, refer to the package documentation or the accompanying research note.
