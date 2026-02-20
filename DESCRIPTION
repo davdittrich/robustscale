@@ -1,6 +1,6 @@
 Package: robustscale
 Title: Robust Ensemble Scale Estimation of Predictive Uncertainty
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Dennis Alexis Valin", "Dittrich", 
            email = "davd@economicscience.net", 
