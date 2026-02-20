@@ -1,0 +1,19 @@
+Package: robustscale
+Title: Robust Ensemble Scale Estimation of Predictive Uncertainty
+Version: 0.1.0
+Authors@R: 
+    person("Dennis Alexis Valin", "Dittrich", 
+           email = "davd@economicscience.net", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4438-8276"))
+Description: Implements a high-performance, variance-weighted 
+    ensemble of robust scale estimators. Optimized for uncertainty 
+    quantification in small-sample regimes (n < 50) typically encountered 
+    in causal machine learning and econometrics.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
+LinkingTo: Rcpp
+Imports: Rcpp
+SystemRequirements: GNU make

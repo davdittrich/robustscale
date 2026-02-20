@@ -1,0 +1,2 @@
+# Makevars for robustscale
+# Using Rcpp only for maximum portability in initial build
